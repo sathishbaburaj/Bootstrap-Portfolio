@@ -1,0 +1,35 @@
+ body {
+    height: 100%;
+   background-image: url(beige-tiles.png)
+   
+/* why this not working check with TA? */
+}
+
+
+footer {
+   
+    height: 50px;
+    background-color: grey;
+    text-align: center;
+    padding: 10px;
+    
+    border-top:solid 5px;
+    border-top-color: teal;
+}
+#exampleMessage{
+    height: 200px;
+}
+hr{
+    height: 2px;
+background-color: grey;
+}
+h1{
+    background-color: teal;
+    text-align: center;
+    float: left;
+    padding: 2%;
+    }
+    p{
+        background-color: white;
+        padding-left: 10px;
+    }
